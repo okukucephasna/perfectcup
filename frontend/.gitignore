@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+backend/frontend_build/
+
+# Node
+node_modules/
+build/
+*.log
+
+# Virtual environments
+*.env
+
+# Docker
+*.pid
+
+# VSCode
+.vscode/
