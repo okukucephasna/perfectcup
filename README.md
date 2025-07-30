@@ -1,8 +1,4 @@
-Sure! Here's a clean, human-readable `README.md` for your Flask + React + Docker project:
 
----
-
-```markdown
 # PerfectCup ☕  
 A Full-Stack Flask + React App, Dockerized for Easy Development and Deployment
 
